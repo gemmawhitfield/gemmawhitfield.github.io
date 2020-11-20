@@ -18,7 +18,7 @@ section
 .banner {
 position: relative;
 min-height: 100vh;
-background: url(pexels-moose-photos-1037992.jpg);
+background: url(/Images/pexels-moose-photos-1037992.jpg);
 background-size: cover;
 background-position: right;
 display: flex;
@@ -407,7 +407,7 @@ header ul li a
 .toggle {
 width: 40px;
 height: 40px;
-background: url(menu.png);
+background: url(/Images/menu.png);
 background-position: center;
 background-repeat: no-repeat;
 background-size: 30px;
@@ -416,7 +416,7 @@ cursor: pointer;
 
 .toggle.active 
 {
-background: url(close.png);
+background: url(/Images/close.png);
 background-position: center;
 background-repeat: no-repeat;
 background-size: 25px;
