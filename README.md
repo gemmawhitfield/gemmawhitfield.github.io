@@ -1,2 +1,2 @@
 Visit my portfolio here: 
-# gemmawhitfield.github.io
+# https://gemmawhitfield.github.io/
