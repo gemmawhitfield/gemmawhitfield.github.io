@@ -18,7 +18,7 @@ section
 .banner {
 position: relative;
 min-height: 100vh;
-background: url(/Images/pexels-moose-photos-1037992.jpg);
+background: url(Images/pexels-moose-photos-1037992.jpg);  
 background-size: cover;
 background-position: right;
 display: flex;
